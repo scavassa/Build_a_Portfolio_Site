@@ -1,4 +1,4 @@
-/* Settings for larger screens like iPad and Desktop */
+/*  Settings for larger screens like iPad and Desktop */ 
 
 html {
     display: flex;
@@ -131,7 +131,7 @@ footer {
 }
 
 
-/* Settings for smaller screens like Nexus 5 */
+/*  Settings for smaller screens like Nexus 5 */
 
 @media only screen and (max-width: 360px) {
 
