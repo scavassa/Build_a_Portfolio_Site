@@ -17,6 +17,7 @@ jobs:
     steps:
       - run: echo world
       - run:
+        name: "echo an env "
         command: | 
           echo $MY_NAME
 workflows:
