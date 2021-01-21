@@ -5,8 +5,6 @@ orbs:
   # Declare a dependency on the welcome-orb
   welcome: circleci/welcome-orb@0.4.1
 # Orchestrate or schedule a set of jobs
-environment:
-  MY_NAME: ANDRE LUIZ
 jobs:
   print_hello:
     docker:
